@@ -2,7 +2,7 @@
 ~*
 
 # Build files
-*.xlsm
-*.xlam
-*.xla
-deploy
+# *.xlsm
+# *.xlam
+# *.xla
+# deploy
